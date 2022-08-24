@@ -1,0 +1,40 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color:rgb(12, 12, 12);
+}
+
+.navbar {
+    list-style-type: none;
+    margin-left: 33%;
+    padding: 0%;
+    overflow: hidden;
+    text-decoration: none;
+
+    background-size: contain;
+}
+
+li {
+
+    float: left;
+    padding: 0.2%;
+    margin: 0.2%;
+    list-style-type: none;
+    font-size: 20px;
+    font-family: sans-serif;
+
+
+
+}
+
+a:hover {
+    color: #f2aa4cff;
+}
+
+a {
+
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: beige;
+}
